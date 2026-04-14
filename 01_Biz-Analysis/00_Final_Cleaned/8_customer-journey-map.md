@@ -1,6 +1,6 @@
-# 06. 전방위 고객 여정 지도 (Customer Journey Map)
+# 전방위 고객 여정 지도 (Customer Journey Map)
 
-본 문서는 `05_페르소나_스펙트럼_맵`에서 정의한 사분면(Quadrant) 기준 8대 주요 페르소나(Core 3명, Adjacent 2명, Extreme 1명, Non-user 2명)가 '실시간 데이터 클리닝 OS'를 인지하고 도입하는 전 과정을 여정 지도로 시각화한 것입니다.
+본 문서는 사분면(Quadrant) 기준 8대 주요 페르소나(Core 3명, Adjacent 2명, Extreme 1명, Non-user 2명)가 '실시간 데이터 클리닝 OS'를 인지하고 도입하는 전 과정을 여정 지도로 시각화한 것입니다.
 
 ---
 
